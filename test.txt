@@ -1,2 +1,4 @@
 my first in github i need some practice
 tell me how to use merge and rebase
+
+i use the rebase
